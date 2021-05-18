@@ -39,8 +39,4 @@ Usage
 
 Contributors
 
-    Here list the people who have contributed to this project. (ignore this section, if its a solo project)
-
-License
-
-This project uses the following license: <license_name>.
+    Richard Schaber, Michael Chan, Chris Morrison, Arieh Gennello
