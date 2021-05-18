@@ -14,13 +14,13 @@ The Kitchen Table application models a kitchen environment that contains ingredi
 
 ### Features ###
 
-List of features ready and TODOs for future development
+#### List of features ready and TODOs for future development ####
 
     Users can review recipes and leave ratings
     Users can add notes to recipes
     Users can make requests to add new recipes
 
-To-do list:
+#### To-do list: ####
 
     Aspect-based security
     Upload recipe images
