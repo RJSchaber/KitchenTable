@@ -4,28 +4,28 @@ The Kitchen Table application models a kitchen environment that contains ingredi
 
 ### Technologies Used ###
 
-    Maven
-    Apache Keyspaces
-    Spring Boot
-    AWS S3
-    jjwt version 0.9.1
-    Sonarcloud
-    Github Projects
+    * Maven
+    * Apache Keyspaces
+    * Spring Boot
+    * AWS S3
+    * jjwt version 0.9.1
+    * Sonarcloud
+    * Github Projects
 
 ### Features ###
 
 #### List of features ready and TODOs for future development ####
 
-    Users can review recipes and leave ratings
-    Users can add notes to recipes
-    Users can make requests to add new recipes
+    * Users can review recipes and leave ratings
+    * Users can add notes to recipes
+    * Users can make requests to add new recipes
 
 #### To-do list: ####
 
-    Aspect-based security
-    Upload recipe images
-    Download recipes
-    Automated shopping list updates
+    * Aspect-based security
+    * Upload recipe images
+    * Download recipes
+    * Automated shopping list updates
 
 #### Contributors ####
 
