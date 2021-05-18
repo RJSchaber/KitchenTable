@@ -4,7 +4,7 @@
 
 The Kitchen Table application models a kitchen environment that contains ingredients for recipes that users are going to try to cook. A typical user can log in and check what ingredients they have available in their kitchen, they can see what recipes they can build with those ingredients and then they can add ingredients to a shopping list to build other recipes. There are main users per household that can add family members, edit/remove recipes and can approve food to be added to the shopping list. Users can also add notes and reviews to recipes as well as keep a list of their favorite recipes.
 
-Technologies Used
+#### Technologies Used ####
 
     Maven
     Apache Keyspaces
@@ -14,7 +14,7 @@ Technologies Used
     Sonarcloud
     Github Projects
 
-Features
+#### Features ####
 
 List of features ready and TODOs for future development
 
@@ -29,6 +29,6 @@ To-do list:
     Download recipes
     Automated shopping list updates
 
-Contributors
+#### Contributors ####
 
     Richard Schaber, Michael Chan, Chris Morrison, Arieh Gennello
