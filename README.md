@@ -28,12 +28,12 @@ The Kitchen Table application models a kitchen environment that contains ingredi
 
 ## Getting Started
    
->git clone https://github.comRJSchaber/KitchenTable
+'git clone https://github.comRJSchaber/KitchenTable'
 Must set environment variables for establishing a connection to Apache Keyspaces
 
 ## Usage
 
-> You must first create users.  Then you can add recipes and ingredients.  After everything has been added, you can cook items from your fridge.
+'You must first create users.  Then you can add recipes and ingredients.  After everything has been added, you can cook items from your fridge.'
 
 #### Contributors ####
 
