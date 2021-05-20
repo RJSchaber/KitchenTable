@@ -28,7 +28,7 @@ The Kitchen Table application models a kitchen environment that contains ingredi
 
 ## Getting Started
    
-      git clone https://github.comRJSchaber/KitchenTable
+    git clone https://github.comRJSchaber/KitchenTable
 Must set environment variables for establishing a connection to Apache Keyspaces
 
 ## Usage
