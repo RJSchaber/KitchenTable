@@ -29,15 +29,13 @@ The Kitchen Table application models a kitchen environment that contains ingredi
 ## Getting Started
    
 >git clone https://github.comRJSchaber/KitchenTable
+Must set environment variables for establishing a connection to Apache Keyspaces
 
 ## Usage
 
-> Here, you instruct other people on how to use your project after they’ve installed it. This would also be a good place to include screenshots of your project in action.
+> You must first create users.  Then you can add recipes and ingredients.  After everything has been added, you can cook items from your fridge.
 
 #### Contributors ####
 
     Richard Schaber, Michael Chan, Chris Morrison, Arieh Gennello
     
-## License
-
-This project uses the following license: [<license_name>](<link>).
