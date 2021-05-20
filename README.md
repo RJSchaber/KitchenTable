@@ -28,14 +28,7 @@ The Kitchen Table application models a kitchen environment that contains ingredi
 
 ## Getting Started
    
-(include git clone command)
-(include all environment setup steps)
-
-> Be sure to include BOTH Windows and Unix command  
-> Be sure to mention if the commands only work on a specific platform (eg. AWS, GCP)
-
-- All the `code` required to get started
-- Images of what it should look like
+>git clone https://github.comRJSchaber/KitchenTable
 
 ## Usage
 
