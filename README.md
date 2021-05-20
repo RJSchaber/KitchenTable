@@ -22,7 +22,6 @@ The Kitchen Table application models a kitchen environment that contains ingredi
 
 #### To-do list: ####
 
-* Aspect-based security
 * Upload recipe images
 * Download recipes
 * Automated shopping list updates
